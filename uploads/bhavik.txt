@@ -1,0 +1,86 @@
+ssh bhavik@ip-184-168-127-7.ip.secureserver.net
+
+
+sudo -u tomcat -s 
+
+scp host-app-host-app.jar  bhavik@ip-184-168-127-7.ip.secureserver.net:/opt/tomcat/webapps/
+
+scp cms.jar  bhavik@ip-184-168-127-7.ip.secureserver.net:/
+
+
+scp ClientManagementSystem1-11.war bhavik@ip-184-168-127-7.ip.secureserver.net:/opt/tomcat/webapps/
+
+
+scp ClientManagementSystem1-11.war bhavik@ip-184-168-127-7.ip.secureserver.net:/opt/tomcat/webapps/
+
+/usr/lib/jvm/java-1.8.0-openjdk-amd64	
+
+
+
+update user set authentication_string='bhavik' where user='root';
+flush privileges;
+
+
+flush privileges;
+
+ update user set authentication_string=PASSWORD('bhavik') where user='root';
+
+mvn clean package -Dmaven.test.skip=true
+
+ClientManagementSystem1-3.war
+
+sudo cp cms.war /opt/tomcat/webapps
+sudo cp ClientManagementSystem1-3.war /opt/tomcat/webapps 
+sudo chown -R tomcat /opt/tomcat/webapps/ClientManagementSystem1-3.war 
+sudo chgrp  tomcat /opt/tomcat/webapps/ClientManagementSystem1-3.war
+
+
+
+
+
+
+update user set authentication_string='bhavik' where user='root';
+
+
+find    -name "*jar" | xargs -L 1 lib -T | grep error | grep invalid
+
+https://www.sqlshack.com/how-to-connect-to-a-remote-mysql-server-using-ssh/
+
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'bhavik';
+
+
+SHOW VARIABLES LIKE 'validate_password%';
+
+
+SET GLOBAL validate_password.length = 6;
+SET GLOBAL validate_password.number_count = 0;
+set global validate_password.policy = LOW;
+
+
+
+t->14060
+s->16015
+
+b->22124
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
