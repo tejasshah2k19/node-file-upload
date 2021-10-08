@@ -1,0 +1,10 @@
+1	ITC 	207.00	Wide	Undervalued	Strong
+2	Kotak Mahindra Bank 	1,700.00	Wide	Overvalued	Strong
+3	Bajaj Finance 	4,880.00	Wide	Overvalued	Strong
+4	HDFC Bank 	1,228.00	Wide	Overvalued	Strong
+5	HDFC  	2,360.00	Wide	Fairly Valued	Strong
+6	TCS	2,215.00	Wide	Overvalued	Strong
+7	Infosys 	800.45	Wide	Overvalued	Strong
+8	Dabur India 	502.00	Wide	Overvalued	Strong
+9	Hindustan Unilever 	2,288.30	Wide	Overvalued	Strong
+10	Marico 	304.70	Wide	Overvalued	Strong
